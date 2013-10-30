@@ -1,7 +1,8 @@
 GPU-Computing-workshop
 ======================
 
-a little introduction into CUDA API that I participated
+A little introduction into CUDA API that I participated.
+This workshop was presented by Andrei Trandafir (Linkedin address: http://ro.linkedin.com/pub/andrei-trandafir/29/13b/969 )
 
 
 Readme for the "GPU_Workshop" project
